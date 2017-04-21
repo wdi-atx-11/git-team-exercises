@@ -2,7 +2,9 @@
 
 **25 min**
 
-Let's simulate using Git in a team environment to help us better prepare for development in a professional setting. 
+Let's simulate using Git in a team environment to help us better prepare for development in a professional setting. It's better working with a team!
+
+![](https://cloud.githubusercontent.com/assets/4304660/25286590/e5fb4708-2683-11e7-8c74-262c9565b37d.gif)
 
 ## Preparation
 
